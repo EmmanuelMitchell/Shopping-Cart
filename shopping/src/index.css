@@ -1,0 +1,48 @@
+h1{
+  font-size: 36px;
+  font-weight: bold;
+  text-align: center;
+  text-transform: uppercase;
+  color: #333;
+  margin: 0;
+  padding: 20px 0;
+  border-bottom: 2px solid #333;
+}
+
+.input-btn{
+  width: 40px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding: 5px;
+  margin: 2px;
+}
+
+
+.check{
+  display: inline-block;
+border-radius: 5px;
+padding: 10px 20px;
+margin: 2px;
+font-size: 16px;
+font-weight: bold;
+text-align: center;
+text-decoration: none;
+background-color: hsla(120, 87%, 9%, 0.774);
+color: #fff;
+border: none;
+cursor: pointer;
+transition: all 0.3s ease;
+}
+
+.check:hover{
+  background-color: crimson;
+}
+
+.subtitle{
+  background-color: gray;
+  width: 30%;
+  padding: 5px;
+  color: white;
+  font-style: italic;
+  text-transform: uppercase;
+  font-weight: 900;
+}
